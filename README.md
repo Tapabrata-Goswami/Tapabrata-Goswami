@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tapabrata <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate C++ and Front-End (and a beginner designer) developer from India.</h3>
+<h3 align="center">A passionate C++ and Back-End (and a beginner designer) developer from India.</h3>
 
 I am an undergraduate Computer science and Engineering student at Future Institute of Technology, Kolkata. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**
@@ -50,7 +50,3 @@ I am an undergraduate Computer science and Engineering student at Future Institu
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapabrata-Goswami&theme=react&layout=compact" />
 </p>
 
-------
-
-
-Last Edited on: 19/05/2022
