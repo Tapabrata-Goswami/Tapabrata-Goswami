@@ -169,11 +169,7 @@ I am an undergraduate Computer science and Engineering student at Future Institu
     alt="WooCommerce"
     class="skill-icons"
     style="height: 50px;" />
-<img
-    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-webflow.svg&w=48&q=75"
-    alt="Webflow"
-    class="skill-icons"
-    style="height: 50px;" />
+
 <img
     src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fsmall%2Ficon_hubspot.png&w=48&q=75"
     alt="HubSpot"
