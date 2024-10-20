@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tapabrata <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate C++ and Back-End (and a beginner designer) developer from India.</h3>
+<h3 align="center">A passionate fullstack engineer from India.</h3>
 
 I am an undergraduate Computer science and Engineering student at Future Institute of Technology, Kolkata. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Python
-  - java Script
+* **I am interested in Webapplication development, Android development**
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
