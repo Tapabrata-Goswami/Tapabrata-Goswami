@@ -19,27 +19,147 @@ I am an undergraduate Computer science and Engineering student at Future Institu
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="html5" width="35" height="35"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fsmall%2Ficon_javascript.png&w=48&q=75"
+    alt="JavaScript"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fsmall%2Ficon_typescript.png&w=48&q=75"
+    alt="TypeScript"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fsmall%2Ficon_react.png&w=48&q=75"
+    alt="React"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxlarge%2Fbootstrap-4.svg&w=48&q=75"
+    alt="Bootstrap"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-figma.svg&w=48&q=75"
+    alt="Figma"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-nextjs.svg&w=48&q=75"
+    alt="Next.js"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-nuxtjs.svg&w=48&q=75"
+    alt="Nuxt.js"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fsmall%2Ficon_flutter.png&w=48&q=75"
+    alt="Flutter"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fsmall%2Ficon_jquery.png&w=48&q=75"
+    alt="jQuery"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fsmall%2Ficon_nodejs.png&w=48&q=75"
+    alt="Node.js"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-expressjs.svg&w=48&q=75"
+    alt="Express.js"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-dart.svg&w=48&q=75"
+    alt="Dart"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fsmall%2Ficon_docker.png&w=48&q=75"
+    alt="Docker"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Fcheckout_champ.svg&w=48&q=75"
+    alt="Checkout Champ"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxxsmall%2Faws.svg&w=48&q=75"
+    alt="AWS"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Fios-bitbucket.svg&w=48&q=75"
+    alt="Bitbucket"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-laravel.svg&w=48&q=75"
+    alt="Laravel"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-github.svg&w=48&q=75"
+    alt="GitHub"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxlarge%2Fjoomla.svg&w=48&q=75"
+    alt="Joomla"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-klaviyo.svg&w=48&q=75"
+    alt="Klaviyo"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-php.svg&w=48&q=75"
+    alt="PHP"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon_zapier.svg&w=48&q=75"
+    alt="Zapier"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-cloudflare.svg&w=48&q=75"
+    alt="Cloudflare"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-heroku.svg&w=48&q=75"
+    alt="Heroku"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-firebase.svg&w=48&q=75"
+    alt="Firebase"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fsmall%2Ficon_mysql.png&w=48&q=75"
+    alt="MySQL"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-mongodb.svg&w=48&q=75"
+    alt="MongoDB"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-sql.svg&w=48&q=75"
+    alt="SQL"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Fgraphql-icon.svg&w=48&q=75"
+    alt="GraphQL"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-wordpress.svg&w=48&q=75"
+    alt="WordPress"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fsmall%2Ficon_shopify.png&w=48&q=75"
+    alt="Shopify"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-konnektive.svg&w=48&q=75"
+    alt="Konnektive"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fxsmall%2Ficon-webflow.svg&w=48&q=75"
+    alt="Webflow"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fsmall%2Ficon_woocommerce.png&w=48&q=75"
+    alt="WooCommerce"
+    class="skill-icons" />
+<img
+    src="https://hire.codeclouds.com/_next/image/?url=https%3A%2F%2Fmedia.codeclouds.com%2Fsmall%2Ficon_hubspot.png&w=48&q=75"
+    alt="HubSpot"
+    class="skill-icons" />
+
 </p>
 
 <p align= "center">
